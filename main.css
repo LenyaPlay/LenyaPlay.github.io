@@ -120,6 +120,7 @@ button {
 	display: flex;
 }
 
+
 .horizontal_flex > p {
 	font-size: 1.5em;
 	margin: 5% 0 0 5%;
@@ -149,7 +150,7 @@ button {
 
 /*Description block*/
 .description_block > .images > img {
-	margin-bottom: -35%;
+	margin-bottom: -150px;
 }
 .description_block > .images > .first {
 	margin-left: 30%;
@@ -171,5 +172,6 @@ button {
 .footer {
 	height: 10%;
 	background-color: black;
+	text-align: center;
 }
 
